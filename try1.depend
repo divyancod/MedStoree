@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1581572761 source:d:\c&cpp\try1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funcs.h"
+	"add.h"
+	"smed.h"
+	"sale.h"
+	"srec.h"
+	"tsale.h"
+	"expir.h"
+	"exi.h"
+
+1580541106 d:\c&cpp\try1\test.h
+
+1580892989 d:\c&cpp\try1\funcs.h
+	<windows.h>
+	<conio.h>
+
+1581494312 d:\c&cpp\try1\add.h
+	<stdio.h>
+	<stdlib.h>
+
+1581151218 d:\c&cpp\try1\smed.h
+	<stdio.h>
+	<conio.h>
+
+1581162321 d:\c&cpp\try1\sale.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+
+1581161308 d:\c&cpp\try1\srec.h
+	<stdio.h>
+	<conio.h>
+
+1581518078 d:\c&cpp\try1\tsale.h
+	<stdio.h>
+	<time.h>
+
+1582186095 d:\c&cpp\try1\expir.h
+	<stdio.h>
+	<time.h>
+
+1581161930 d:\c&cpp\try1\exi.h
+	<stdio.h>
+
